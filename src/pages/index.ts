@@ -1,0 +1,17 @@
+export { default as NotFound } from './NotFound';
+export { default as Home } from './Home';
+export { default as Register } from './Register';
+export { default as Login } from './Login';
+export { default as ForgotPassword } from './ForgotPassword';
+export { default as ResetPassword } from './ResetPassword';
+export { default as AdminDashboard } from './AdminDashboard';
+export { default as AboutUs } from './AboutUs';
+export { default as ContactUs } from './ContactUs';
+export { default as AddUser } from './AddUser';
+export { default as EditUser } from './EditUser';
+export { default as UserList } from './UserList';
+export { default as Search } from './Search';
+export { default as Upload } from './Upload';
+export { default as WhyDonate } from './WhyDonate';
+export { default as ManagerDashboard } from './ManagerDashboard';
+export { default as UserDashboard } from './UserDashboard';
